@@ -4,5 +4,6 @@ using namespace std;
 
 int main()
 {
-    int number = 10;    
+    int number = 10;
+    cout << "Hello";    
 }
