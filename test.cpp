@@ -10,5 +10,6 @@ int main()
     float number2 = 100;
     cout << "Hello";
     cout << "This is C++" << endl;
-    cout << "Bye";    
+    cout << "Bye"; 
+    cout << "OK";   
 }
