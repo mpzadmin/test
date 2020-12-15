@@ -9,5 +9,6 @@ int main()
     char myChar = 'A';
     float number2 = 100;
     cout << "Hello";
-    cout << "This is C++" << endl;    
+    cout << "This is C++" << endl;
+    cout << "Bye";    
 }
