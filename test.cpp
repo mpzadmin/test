@@ -12,5 +12,6 @@ int main()
     cout << "This is C++" << endl;
     cout << "Bye"; 
     cout << "OK";
-    cout << "This is a new change";   
+    cout << "This is a new change";
+    cout << "-----------------------------";   
 }
