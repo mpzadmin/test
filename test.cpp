@@ -13,5 +13,6 @@ int main()
     cout << "Bye"; 
     cout << "OK";
     cout << "This is a new change";
-    cout << "-----------------------------";   
+    cout << "-----------------------------";  
+    cout << "Hello world!"; 
 }
